@@ -1,0 +1,59 @@
+1. What/ why react?
+
+2. create react app
+
+3. components & templates
+
+4. Dynamic values in templates
+
+5. Multiple components(root component = app.js)
+
+6. Adding style
+
+7. Event
+
+8. UseState (using state hook)
+
+9. React dev tools
+
+10. Outputting Lists - Render Loop voi react hook
+
+11. Props
+
+12. Reusing component
+
+13. function as props (truyen fc tu cha sang con)
+
+14. useEffect hook basic
+
+14.1. useEffect hook dependencies
+
+15. Json sever lấy dât covid-19
+
+16. Fetching dât with useEffect
+
+17. Conditional loading message
+
+18. Handling fetching errors
+
+19. Making custom hook 
+
+20. The react router
+
+21.Exact match routers/ links/ active tabs
+
+22. useEffect clean up
+
+23. Router parameters
+
+24. Programmatic redirects
+
+25. Reusing custom hooks
+
+26: Controlled input forms
+
+27. Submit event - validate data
+
+28. Making a POST request/ deleting data
+
+29. 404 not founds
